@@ -5,12 +5,10 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={weddinginvite} className="App-logo" alt="logo" />
-        <p>
-          Huy & Anne's wedding
-        </p>
-      
+       <p>Save The Date</p>
       </header>
+       <img src={weddinginvite} className="App-logo" alt="logo" />
+       
     </div>
   );
 }
