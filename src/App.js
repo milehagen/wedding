@@ -6,8 +6,9 @@ function App() {
     <div className="App">
       <header className="App-header">
        <p>Save The Date</p>
+        <img src={weddinginvite} className="App-logo" alt="logo" />
       </header>
-       <img src={weddinginvite} className="App-logo" alt="logo" />
+      
        
     </div>
   );
