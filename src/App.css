@@ -1,17 +1,22 @@
-.App {
-  justify-content: center;
-}
-
 .container {
   display: block;
   margin: 0 auto;
-  text-align: center;
 }
 
 .wedding-invite {
   width: 70vh;
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-top: 70px;
 }
 
+.text-next-to-image {
+  width: 70vh;
+  margin-left: 50px;
+}
 .huy-anne-bilde {
   width: 70vh;
+  margin-left: 50px;
+  margin-top: 70px;
+  margin-right: 50px;
 }

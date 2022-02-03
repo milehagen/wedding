@@ -1,5 +1,7 @@
 import weddinginvite from './weddinginvite.svg';
 import huyAnneHoyBilde from './huyAnneHoyBilde.png';
+import text from './text.png';
+
 import './App.css';
 
 function App() {
@@ -12,11 +14,11 @@ function App() {
   <div class="row">
     <div class="col">
        <img src={weddinginvite} className="wedding-invite" alt="wedding invitation" />
-    
+    <span> 
+    <img src={text} className="text-next-to-image" alt="text" /> 
+    </span>
         </div>
-           <span> 
- <p> TEXT AND INFO HERE</p>
-       </span>
+           
         <div class="col">
           <img src={huyAnneHoyBilde} className="huy-anne-bilde" alt="Bilde Huy og Anne" />
         </div>
