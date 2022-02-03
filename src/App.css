@@ -1,12 +1,17 @@
 .App {
+  justify-content: center;
+}
+
+.container {
+  display: block;
+  margin: 0 auto;
   text-align: center;
 }
 
-.App-header {
-  background-color: #405c5c;
-  width: 100vh;
+.wedding-invite {
+  width: 70vh;
 }
 
-.App-logo {
-  width: 90vh;
+.huy-anne-bilde {
+  width: 70vh;
 }
