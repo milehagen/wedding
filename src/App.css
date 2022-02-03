@@ -6,18 +6,20 @@
 
 .wedding-invite {
   width: 70vh;
-  margin-left: 50px;
-  margin-right: 50px;
+  margin-left: 100px;
   margin-top: 70px;
+  border-radius: 20px;
+  text-align: center;
 }
 
 .text-next-to-image {
   width: 70vh;
-  margin-left: 50px;
+  margin-left: 100px;
 }
 .huy-anne-bilde {
   width: 77vh;
-  margin-left: 50px;
+  margin-left: 100px;
   margin-top: 70px;
   margin-right: 50px;
+  border-radius: 20px;
 }
