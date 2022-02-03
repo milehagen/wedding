@@ -21,6 +21,9 @@ function App() {
            
         <div class="col">
           <img src={huyAnneHoyBilde} className="huy-anne-bilde" alt="Bilde Huy og Anne" />
+          <span> 
+    <img src={text} className="text-next-to-image" alt="text" /> 
+    </span>
         </div>
          </div>
      </div>  
