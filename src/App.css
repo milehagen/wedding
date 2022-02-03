@@ -5,7 +5,7 @@
 }
 
 .wedding-invite {
-  width: 70vh;
+  min-width: 650px;
   margin-left: 100px;
   margin-top: 70px;
   border-radius: 20px;
@@ -18,7 +18,7 @@
 }
 .huy-anne-bilde {
   width: 77vh;
-  margin-left: 100px;
+  margin-left: 115px;
   margin-top: 70px;
   margin-right: 50px;
   border-radius: 20px;
