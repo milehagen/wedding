@@ -1,4 +1,3 @@
-import weddinginvite from './weddinginvite.png';
 import Navbar from './Navbar';
 import './App.css';
 import Slides from './Slides';
