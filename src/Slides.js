@@ -7,18 +7,17 @@ export default function Slides(){
   <Carousel>
   <Carousel.Item>
     <img
-      className="d-block w-100"
+      className="d-block w-50"
       src={weddinginvite}
       alt="First slide"
     />
     <Carousel.Caption>
-      <h3>First slide label</h3>
       <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
     </Carousel.Caption>
   </Carousel.Item>
   <Carousel.Item>
     <img
-      className="d-block w-100"
+      className="w-50"
       src="holder.js/800x400?text=Second slide&bg=282c34"
       alt="Second slide"
     />

@@ -8,11 +8,11 @@ export default function App() {
     <div className="App">
         <Navbar />
         <div className="container-all-content">
-          
+          <br/>
+          <div className='carousel'>
           <Slides />
-         <div>
-            <img src={weddinginvite} className="wedding-invite"/>
           </div>
+        
        </div>
            </div>
   );
