@@ -1,18 +1,22 @@
-.container {
+h1 {
+  font-size: 150px;
+  font-family: "Times New Roman", Times, serif;
+  font-weight: 10;
+}
+
+.wedding-invite-box {
+  margin-top: 100px;
+}
+.wedding-invite {
+  width: 530px;
+  border-radius: 20px;
+  text-align: center;
   display: block;
   margin: 0 auto;
-  text-align: center;
+  margin-bottom: 50px;
 }
 
-.website-heading {
-  font-size: 100px;
-  font-family: "Times New Roman", Times, serif;
-  text-align: center;
-}
-
-.wedding-invite {
-  min-width: 500px;
-  margin-top: 70px;
-  border-radius: 20px;
+.container-all-content {
+  display: block;
   text-align: center;
 }

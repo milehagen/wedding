@@ -1,26 +1,20 @@
-import weddinginvite from './weddinginvite.svg';
-
-
+import weddinginvite from './weddinginvite.png';
+import Navbar from './Navbar';
 import './App.css';
+import Slides from './Slides';
 
-function App() {
+export default function App() {
   return (
     <div className="App">
-      <div class="container all-content">
-          <h1 className="website-heading">HUY & ANNE </h1>
-  <div class="row">
-    <div class="col">
-     
-        </div>
-           
-        <div class="col">
-          <img src={weddinginvite} className="wedding-invite" alt="wedding invitation" />
-      
-        </div>
-         </div>
-     </div>  
-    </div>
+        <Navbar />
+        <div className="container-all-content">
+          
+          <Slides />
+         <div>
+            <img src={weddinginvite} className="wedding-invite"/>
+          </div>
+       </div>
+           </div>
   );
 }
 
-export default App;
